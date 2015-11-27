@@ -1,0 +1,14 @@
+layout_spectrum: 0.244743
+color:
+  saturation: 0.1106383
+  brandStrength: 1
+  lightness: 0.3727974
+  brandColors:
+    - '#FBFAF9'
+    - '#302E22'
+    - '#007AFF'
+    - '#B4775C'
+    - '#B3A3FF'
+  rhythmicContrast: 0.4382979
+typography_spectrum: 0.7882913
+name: Florenz
